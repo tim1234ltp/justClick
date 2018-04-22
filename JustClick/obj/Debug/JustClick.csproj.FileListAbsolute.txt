@@ -1,0 +1,17 @@
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\bin\Debug\JustClick.exe.config
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\bin\Debug\JustClick.exe
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\bin\Debug\JustClick.pdb
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\JustClick.csprojResolveAssemblyReference.cache
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\GameWindow.g.cs
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\MainWindow.g.cs
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\App.g.cs
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\JustClick_MarkupCompile.cache
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\JustClick_MarkupCompile.lref
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\GameWindow.baml
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\MainWindow.baml
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\JustClick.g.resources
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\JustClick.Properties.Resources.resources
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\JustClick.csproj.GenerateResource.cache
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\JustClick.csproj.CoreCompileInputs.cache
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\JustClick.exe
+C:\Users\tim12\Documents\Visual Studio 2017\Projects\JustClick\JustClick\obj\Debug\JustClick.pdb

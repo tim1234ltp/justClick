@@ -1,0 +1,15 @@
+﻿<Window x:Class="JustClick.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JustClick"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Play" HorizontalAlignment="Center" Margin="0,211,0,0" VerticalAlignment="Top" Width="110" Height="44" FontSize="28" Click="playBtn"/>
+        <Button Content="Exit" HorizontalAlignment="Center" Margin="0,290,0,0" VerticalAlignment="Top" Width="110" Height="44" FontSize="28" Click="exitBtn"/>
+        <Label Content="Just Click the red circle" HorizontalAlignment="Center" Margin="0,110,0,0" VerticalAlignment="Top" Height="86" Width="586" FontSize="54" Foreground="Red" FontFamily="Georgia"/>
+
+    </Grid>
+</Window>
